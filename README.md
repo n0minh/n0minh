@@ -1,4 +1,5 @@
 ## Hi there 👋
+<img width="498" height="269" alt="bonk-doge" src="https://github.com/user-attachments/assets/03def8da-bed9-4348-a35a-af219b12c063" />
 
 <!--
 **chuvitvang/chuvitvang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
