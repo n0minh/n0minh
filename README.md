@@ -1,5 +1,4 @@
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=175&section=header&text=YOUR_NAME&fontSize=42&fontColor=E0F2FE&animation=fadeIn&fontAlignY=38&desc=GIS%20Analyst%20%7C%20Spatial%20Data%20%26%20Data%20Analyst&descAlignY=60&descSize=18" width="100%" alt="Profile Header"/>
     <br/>
     <img width="498" height="498" alt="picture" src="https://github.com/user-attachments/assets/4523572a-9981-4b48-bdce-cc1a313c140f" />
 </div>
