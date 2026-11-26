@@ -1,7 +1,7 @@
 <div align="center">
 <div align="center">
     <br/>
-    <img width="498" height="498" alt="output-onlinegiftools" src="https://github.com/user-attachments/assets/becf8edb-42a1-413e-a05b-984002b343cd" />
+    <img width="498" height="498" alt="2d407m2j09rmr0d22zb80kdz5g_preview_0" src="https://github.com/user-attachments/assets/1017c13e-5335-4433-86e0-5622aa13017e" />
 </div>
     <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=2500&pause=2000&color=38BDF8&center=true&vCenter=true&width=680&height=48&lines=GIS+Analyst+%26+Spatial+Data+Engineer;Data+Analyst+%7C+Location+Intelligence;PostGIS+%E2%80%A2+Python+%E2%80%A2+SQL+%E2%80%A2+GEE+%E2%80%A2+FME+%E2%80%A2+WebGIS" alt="Typing SVG" />
