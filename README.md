@@ -2,11 +2,6 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=175&section=header&text=YOUR_NAME&fontSize=42&fontColor=E0F2FE&animation=fadeIn&fontAlignY=38&desc=GIS%20Analyst%20%7C%20Spatial%20Data%20%26%20Data%20Analyst&descAlignY=60&descSize=18" width="100%" alt="Profile Header"/>
     <br/>
     <img width="498" height="498" alt="picture" src="https://github.com/user-attachments/assets/4523572a-9981-4b48-bdce-cc1a313c140f" />
-
-    <br/><br/>
-    <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=2500&pause=2000&color=38BDF8&center=true&vCenter=true&width=680&height=48&lines=GIS+Analyst+%26+Spatial+Data+Engineer;Data+Analyst+%7C+Location+Intelligence;PostGIS+%E2%80%A2+Python+%E2%80%A2+SQL+%E2%80%A2+GEE+%E2%80%A2+FME+%E2%80%A2+WebGIS" alt="Typing SVG" />
-    </a>
 </div>
 
 <div align="center">
